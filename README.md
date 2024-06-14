@@ -12,4 +12,7 @@ Ryan Wessel: rwessel@csumb.edu
 
 #### Presentation Video: [CST 383 Final Project Video](https://www.youtube.com/watch?v=SChR47LHRK8)
 
-[embed]https://github.com/christopherloi/CST383/blob/main/CST383_FINAL_PROJECT_REPORT.pdf[/embed]
+![Alt text](images/CST383_FINAL_PROJECT_REPORT-1.png)
+![Alt text](images/CST383_FINAL_PROJECT_REPORT-2.png)
+![Alt text](images/CST383_FINAL_PROJECT_REPORT-3.png)
+![Alt text](images/CST383_FINAL_PROJECT_REPORT-4.png)
